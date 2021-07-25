@@ -1,5 +1,5 @@
 
-## My setup - Laravel & Vue
+## Laravel & Vue
 
 
 * Laravel8.4
